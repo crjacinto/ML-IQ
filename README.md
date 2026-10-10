@@ -2,7 +2,7 @@
 
 Material del taller práctico de Machine Learning para el curso de Termodinámica de Procesos. El objetivo es predecir la potencia generada en turbinas a partir de datos de operación, poniendo énfasis en el análisis y la limpieza de datos con criterio físico.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crjacinto/ML-IQ/blob/main/ML-IQ.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crjacinto/ML-IQ/blob/main/ML_IQ.ipynb)
 
 ## Contenido
 
